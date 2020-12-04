@@ -1,0 +1,40 @@
+body{
+    background: linear-gradient(rgba((0, 0, 50, 0.5) 0, 0, 50, 0.5));
+    background-size: cover;
+    background-position: center;
+    background-image: url(https://commons.wikimedia.org/wiki/File:Leiden,_ingang_station_Leiden_Centraal_foto10_2017-06-11_09.16.jpg);
+    background-color: black;
+}
+
+
+.login-box{
+    max-width: 700px;
+    float: none;
+    margin: 150px auto;
+}
+
+.login-left{
+    background: rgba(211, 211, 211, 0.5);
+    padding: 30px;
+}
+
+.login-right{
+    background: #fff;
+    padding: 30px;
+}
+
+.form-control{
+    background-color: transparent !important;
+}
+
+a{
+    color: #fff !important;
+    margin: -200px !important!;
+}
+
+h1{
+    color: #fff !important;
+    margin-top: 200px !important;
+    text-align: center;
+    text-transform: uppercase;
+}
